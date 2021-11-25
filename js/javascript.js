@@ -1,5 +1,32 @@
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // function calcular (){
 //     let temperatura = document.getElementById('temperatura').value;  
 //     let resultado = document.getElementById('resultado');
