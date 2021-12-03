@@ -1,4 +1,5 @@
 
+  
 
 
 
@@ -6,7 +7,29 @@
 
 
 
+  
+// // funçao pra validar login e senha com javascript //
+//     function validar(){
+//         let usuario = document.getElementById ('usuario').value;
+//         let senha = document.getElementById('senha').value;  //Usa MD5 pra pegar a senha//
+//         if(usuario === 'user01' && senha === '123teste56' || usuario === 'user02' && senha === '56teste123'){
+//             // alert(`Seja bem vindo ${usuario}`);
+//             window.location.href = 'https://www.google.com'
+//         }else{
+//             alert(`Dados invalidos`);
+//         }
 
+//         console.log(usuario, senha);
+
+//     }
+
+    
+    // senha.addEventListener('keyup', function(event){
+    // if(event.keyCode === 13){
+    //     event.preventDefault();
+    //     getElementById ('login').click();
+    // } 
+    // });
 
 
 
